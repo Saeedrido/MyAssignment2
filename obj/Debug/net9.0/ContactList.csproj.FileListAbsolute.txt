@@ -1,0 +1,4 @@
+C:\Users\HPP\Desktop\ContactList\obj\Debug\net9.0\ContactList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPP\Desktop\ContactList\obj\Debug\net9.0\ContactList.AssemblyInfoInputs.cache
+C:\Users\HPP\Desktop\ContactList\obj\Debug\net9.0\ContactList.AssemblyInfo.cs
+C:\Users\HPP\Desktop\ContactList\obj\Debug\net9.0\ContactList.csproj.CoreCompileInputs.cache
